@@ -1,0 +1,31 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.conatiner {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  width: 100vw;
+  height: 100vh;
+  background-color: gold;
+}
+.box-one {
+  width: 200px;
+  height: 200px;
+  background-color: blueviolet;
+}
+.box-two {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(226, 43, 171);
+}
+.box-three {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+} */
